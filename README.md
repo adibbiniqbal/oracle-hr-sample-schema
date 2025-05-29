@@ -13,7 +13,7 @@ This repo contains a set of SQL scripts designed to:
 ## ✅ Prerequisites
 
 - A running Oracle database (e.g., [set it up using this guide](https://github.com/adibbiniqbal/oracle19c-docker-mac-apple-silicon/))
-- A SQL client like [Oracle SQL Developer](https://www.oracle.com/database/sqldeveloper/) or [VS Code with Oracle SQL Developer Extension](https://marketplace.visualstudio.com/items?itemName=Oracle.sql-developer)
+- A SQL client like [Oracle SQL Developer](https://www.oracle.com/database/sqldeveloper/) or [VS Code](https://code.visualstudio.com/) with the [Oracle SQL Developer Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=Oracle.sql-developer)
 
 ---
 
