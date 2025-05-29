@@ -23,12 +23,16 @@ Follow these steps to create the HR sample schema in your Oracle pluggable datab
 
 
 1. Download the SQL files in this repository, using either the Git commands or manually downloading them (view file > raw > save as).
-2. Open an IDE (e.g. SQL Developer) and connect to your database (container database).
+```bash
+git clone https://github.com/adibbiniqbal/oracle-hr-sample-schema
+```
+2. Open an IDE (e.g. [VS Code](https://code.visualstudio.com/) with the [Oracle SQL Developer Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=Oracle.sql-developer)) and connect to your database (container database).
 3. Login as SYS AS SYSDBA and run script 01 to creates the new HR user and grant privileges.
 4. Connect to the database as the new HR user.
 5. Run script 02 to create the tables.
 6. Run script 03 to populate the tables.
 7. Run script 04 to create indexes and comments.
+
 
 The schema is now set up!
 
