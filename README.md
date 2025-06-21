@@ -48,3 +48,15 @@ Service Name: orclpdb1
 
 Here's the ERD of the HR schema used:
 ![ERD - Oracle HR Schema](https://user-images.githubusercontent.com/9577031/120085247-c9dd5180-c119-11eb-8d06-d8cfd5a1a60f.png)
+
+---
+
+## 📃 License
+
+MIT License — feel free to use, modify, and contribute.
+
+---
+
+## 🙋 Support
+
+If you have questions, open an issue or submit a pull request!
